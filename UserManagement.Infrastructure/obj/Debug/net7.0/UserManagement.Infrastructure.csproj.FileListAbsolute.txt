@@ -1,0 +1,17 @@
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\bin\Debug\net7.0\UserManagement.Infrastructure.deps.json
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\bin\Debug\net7.0\UserManagement.Infrastructure.runtimeconfig.json
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\bin\Debug\net7.0\UserManagement.Infrastructure.dll
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\bin\Debug\net7.0\UserManagement.Infrastructure.pdb
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\bin\Debug\net7.0\UserManagement.Domain.dll
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\bin\Debug\net7.0\UserManagement.Domain.pdb
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.AssemblyInfo.cs
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.csproj.CopyComplete
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.dll
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\obj\Debug\net7.0\refint\UserManagement.Infrastructure.dll
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.pdb
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.genruntimeconfig.cache
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Infrastructure\obj\Debug\net7.0\ref\UserManagement.Infrastructure.dll
