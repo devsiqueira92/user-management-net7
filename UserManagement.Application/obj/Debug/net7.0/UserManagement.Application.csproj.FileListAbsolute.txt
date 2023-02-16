@@ -1,0 +1,17 @@
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\bin\Debug\net7.0\UserManagement.Application.deps.json
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\bin\Debug\net7.0\UserManagement.Application.dll
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\bin\Debug\net7.0\UserManagement.Application.pdb
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\obj\Debug\net7.0\UserManagement.Application.csproj.AssemblyReference.cache
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\obj\Debug\net7.0\UserManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\obj\Debug\net7.0\UserManagement.Application.AssemblyInfoInputs.cache
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\obj\Debug\net7.0\UserManagement.Application.AssemblyInfo.cs
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\obj\Debug\net7.0\UserManagement.Application.csproj.CoreCompileInputs.cache
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\obj\Debug\net7.0\UserManagement.Application.dll
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\obj\Debug\net7.0\refint\UserManagement.Application.dll
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\obj\Debug\net7.0\UserManagement.Application.pdb
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\obj\Debug\net7.0\ref\UserManagement.Application.dll
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\bin\Debug\net7.0\UserManagement.Domain.dll
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\bin\Debug\net7.0\UserManagement.Shared.dll
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\bin\Debug\net7.0\UserManagement.Domain.pdb
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\bin\Debug\net7.0\UserManagement.Shared.pdb
+D:\personal-projects\UserManagement\UserManagement\UserManagement.Application\obj\Debug\net7.0\UserManagement.Application.csproj.CopyComplete
